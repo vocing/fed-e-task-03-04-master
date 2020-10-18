@@ -1,0 +1,45 @@
+Arguments: 
+  D:\nodejs12_ths\ths\node.exe D:\nodejs8_ths\node_modules\yarn\bin\yarn.js add gridsome --latest
+
+PATH: 
+  D:\workplication\Python_ths\ths\Scripts\;D:\workplication\Python_ths\ths\;D:\python\python3_x64_ths\Scripts\;D:\python\python3_x64_ths\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Anaconda3;C:\Program Files\Anaconda3\Scripts;C:\Program Files\Anaconda3\Library\bin;C:\Program Files\Anaconda2;C:\Program Files\Anaconda2\Scripts;C:\Program Files\Anaconda2\Library\bin;C:\Program Files\Git\cmd;D:\nodejs12_ths\ths\;D:\nodejs8_ths;
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\viruser.v-desktop\AppData\Local\Yarn\Cache\v6\npm-ansi-regex-4.1.0-8b9f8f08cf1acb843756a839ca8c7e3168c51997-integrity\node_modules\ansi-regex\index.js' -> 'D:\project_self\疑问测试\fed-e-task-03-04\work\node_modules\ansi-align\node_modules\ansi-regex\index.js'
+
+npm manifest: 
+  {
+    "name": "my-gridsome-site",
+    "private": true,
+    "scripts": {
+      "build": "gridsome build",
+      "develop": "gridsome develop",
+      "explore": "gridsome explore"
+    },
+    "dependencies": {
+      "async-validator": "^3.4.0",
+      "element-ui": "^2.13.2",
+      "gridsome": "^0.7.0",
+      "moment": "^2.29.1",
+      "vuex": "^3.5.1"
+    },
+    "devDependencies": {
+      "axios": "^0.20.0",
+      "sharp": "^0.26.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
